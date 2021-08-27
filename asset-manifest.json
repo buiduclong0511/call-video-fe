@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/call-video-fe/static/css/main.93429dc4.chunk.css",
+    "main.js": "/call-video-fe/static/js/main.a2fa4559.chunk.js",
+    "main.js.map": "/call-video-fe/static/js/main.a2fa4559.chunk.js.map",
+    "runtime-main.js": "/call-video-fe/static/js/runtime-main.5375f19a.js",
+    "runtime-main.js.map": "/call-video-fe/static/js/runtime-main.5375f19a.js.map",
+    "static/js/2.24e2effa.chunk.js": "/call-video-fe/static/js/2.24e2effa.chunk.js",
+    "static/js/2.24e2effa.chunk.js.map": "/call-video-fe/static/js/2.24e2effa.chunk.js.map",
+    "static/js/3.0f5ab85f.chunk.js": "/call-video-fe/static/js/3.0f5ab85f.chunk.js",
+    "static/js/3.0f5ab85f.chunk.js.map": "/call-video-fe/static/js/3.0f5ab85f.chunk.js.map",
+    "index.html": "/call-video-fe/index.html",
+    "static/css/main.93429dc4.chunk.css.map": "/call-video-fe/static/css/main.93429dc4.chunk.css.map",
+    "static/js/2.24e2effa.chunk.js.LICENSE.txt": "/call-video-fe/static/js/2.24e2effa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5375f19a.js",
+    "static/js/2.24e2effa.chunk.js",
+    "static/css/main.93429dc4.chunk.css",
+    "static/js/main.a2fa4559.chunk.js"
+  ]
+}
